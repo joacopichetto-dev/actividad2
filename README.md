@@ -9,18 +9,27 @@ Los ejercicios fueron desarrollados utilizando Jupyter Notebook para la ejecuci�
 🎯 Objetivos del trabajo
 
 -Resolver problemas más complejos con estructuras de datos.
+
 -Aplicar buenas prácticas de programación.
+
 -Separar lógica y ejecución (src + notebooks).
+
 -Trabajar con datos reales e inconsistentes.
+
 🛠️ Tecnologías utilizadas
 
 -Lenguaje: Python 3
+
 -Entorno: Jupyter Notebook
+
 -Librerías estándar (random, re, etc.)-
+
 🎥 Entrega adicional
 
 El proyecto incluye un video donde:
 
 -Se muestra la ejecución del ejercicio 10
+
 -Se explica el código y su funcionamiento
+
 Autor: Joaquin Pichetto Legajo: 027908/2
