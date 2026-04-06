@@ -32,4 +32,49 @@ El proyecto incluye un video donde:
 
 -Se explica el código y su funcionamiento
 
+## ⚙️ Instalación
+
+1. Cloná el repositorio:
+
+```bash
+git clone https://github.com/tu-usuario/tu-repo.git
+cd tu-repo
+```
+
+2. Creá un entorno virtual:
+
+```bash
+python -m venv .venv
+```
+
+3. Activá el entorno virtual:
+
+**Windows:**
+
+```bash
+.venv\Scripts\activate
+```
+
+**Mac / Linux:**
+
+```bash
+source .venv/bin/activate
+```
+
+4. Instalá las dependencias:
+
+```bash
+pip install -r requirements.txt
+```
+## 🚀 Ejecución
+
+1. Con el entorno virtual activado, iniciá Jupyter:
+
+```bash
+jupyter lab
+```
+
+2. Abrí la carpeta `notebooks/` y ejecutá los archivos `.ipynb`.
+
+
 Autor: Joaquin Pichetto Legajo: 027908/2
